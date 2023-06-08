@@ -1,0 +1,46 @@
+p{
+    text-align: center;
+    padding: 2rem;
+    font-size: medium;
+    text-decoration: underline ;
+    
+
+}
+
+#image{
+     width: 97%;
+     height: 700px;
+     padding-top: 40px;
+    align-items: center;
+     
+}
+
+strong{
+   color: blue;
+   font-size: larger;
+}
+
+.navbar{
+    padding: 30px;
+    
+}
+
+.navbar ul li {
+    font-weight: bolder;
+}
+
+.navbar ul li a{
+    transition: 0.4 ease;
+
+}
+
+.nav ul li hover{
+    color: navy
+}
+
+h2{
+    text-align: center;
+    font-style: italic;
+    font-size: xx-large;
+   font-weight: bolder ;
+}
